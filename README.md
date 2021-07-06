@@ -22,7 +22,7 @@
 
 
 <!--[website]: https://jiriadam.com/-->
-[twitter]: https://twitter.com/bradyredding
+[twitter]: https://twitter.com/bradyredding1
 [youtube]: https://www.youtube.com/
 [instagram]: https://www.instagram.com/_.bradyredding._/
 
